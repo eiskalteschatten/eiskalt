@@ -1,12 +1,27 @@
 {
   "name": "@eiskalt/scss",
   "version": "1.0.0",
-  "description": "",
+  "description": "> TODO: description",
+  "author": "Alex <alex@alexseifert.com>",
+  "homepage": "https://github.com/eiskalteschatten/eiskalt/tree/main/packages/scss#readme",
+  "license": "ISC",
   "main": "dist/index.js",
+  "directories": {
+    "src": "src",
+    "scripts": "scripts"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eiskalteschatten/eiskalt.git"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: run tests from root\" && exit 1",
     "build": "ts-node scripts/build.ts"
   },
-  "author": "Alex Seifert",
-  "license": "ISC"
+  "bugs": {
+    "url": "https://github.com/eiskalteschatten/eiskalt/issues"
+  }
 }
