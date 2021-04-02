@@ -1,0 +1,6 @@
+node_modules
+test/performance-results
+test-results
+test-coverage
+
+dist
