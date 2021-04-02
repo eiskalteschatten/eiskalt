@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "ts-node src/built.ts"
+    "build": "ts-node scripts/build.ts"
   },
   "author": "Alex Seifert",
   "license": "ISC"

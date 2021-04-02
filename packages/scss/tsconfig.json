@@ -13,7 +13,8 @@
   },
   "include": [
     "src/**/*.ts",
-    "config/**/*.js"
+    "config/**/*.js",
+    "scripts/**/*.ts"
   ],
   "exclude": [
     "dist",
